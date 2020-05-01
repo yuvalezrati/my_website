@@ -1,0 +1,14 @@
+<style type="text/css">
+h1{
+	color:orange;
+	font-size: 50px;
+	text-decoration: underline;
+}
+#first{font-size: 300px}
+h2{
+	font-size: 130px;
+	color: blue;
+}
+.small{font-size: 12px}
+span{font-style: italic;}
+h2 span { text-decoration: line-through; }
